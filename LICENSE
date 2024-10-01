@@ -1,0 +1,24 @@
+
+---
+
+### Step 3: Create Folder Structure
+
+Here's the suggested structure for your project:
+
+```plaintext
+CyberSec-Toolkit/
+│
+├── README.md
+├── LICENSE
+├── tools/
+│   ├── port_scanner.py
+│   ├── network_scanner.py
+│   ├── brute_force.py
+│   ├── encryptor.py
+├── requirements.txt
+├── CONTRIBUTING.md
+└── documentation/
+    ├── port_scanner.md
+    ├── network_scanner.md
+    ├── brute_force.md
+    └── encryptor.md
