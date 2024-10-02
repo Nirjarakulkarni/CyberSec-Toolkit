@@ -1,6 +1,3 @@
-1. Port Scanner (tools/port_scanner.py)
-import socket
-
 def scan_ports(target, ports):
     print(f"Scanning target: {target}")
     for port in ports:
